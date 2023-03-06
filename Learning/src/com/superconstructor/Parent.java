@@ -1,0 +1,12 @@
+package com.superconstructor;
+
+public class Parent
+{
+    String name;
+
+    public Parent(String n)
+    {
+        name = n;
+    }
+
+}
